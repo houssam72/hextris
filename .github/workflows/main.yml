@@ -11,6 +11,6 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
         server: files.000webhost.com
-        username: dimarajacasa
-        password: ${{ secrets.FTP_PASSWORD }}
+        username: houssamtestreact
+        password: X4sHwzYO)4qyFRmJSo6(
         server-dir : public_html/
